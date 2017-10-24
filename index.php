@@ -16,3 +16,5 @@ echo "	Baju berbahan 		: " .$baju1->berbahan. 	'<br>' ;
 echo "	Model baju 			: " .$baju1->model. 	'<br>' ; 
 echo "	Harga 				: " .$baju1->harga. 	'<br>' ;  
 
+
+?>
